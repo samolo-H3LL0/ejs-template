@@ -1,5 +1,5 @@
 const express = require('express');
-const app = rexpress();
+const app = express();
 
 app.set('view engine', 'ejs')
 
