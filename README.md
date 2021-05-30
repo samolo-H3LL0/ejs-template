@@ -5,3 +5,8 @@ Para instalartela, recomiento clonarla con git:
 ```
 git clone https://github.com/samolo-H3LL0/ejs-template.git
 ```
+
+y instalarte las dependencias: 
+```
+npm install
+```
